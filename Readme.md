@@ -31,7 +31,7 @@ The dataset used in this project (`stud.csv`) contains the following features:
 
 The model used in this project is a supervised machine learning model trained using the `stud.csv` dataset. The preprocessing steps include scaling, encoding categorical variables, and splitting the dataset into training and testing sets. The final model is saved in the `artifacts/` folder for future use.
 
-## Screenshot
+## Output of the Project
 
-![Screenshot of the application](output of project.png)
+![Screenshot of the application](images/output of project.png)
 
