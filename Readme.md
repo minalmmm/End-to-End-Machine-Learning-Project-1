@@ -33,5 +33,5 @@ The model used in this project is a supervised machine learning model trained us
 
 ## Output of the Project
 
-![Screenshot of the application](images/output of project.png)
+![Screenshot of the application]([images/output of project.png](https://github.com/minalmmm/End-to-End-Machine-Learning-Project-1/blob/main/output%20of%20project.png))
 
